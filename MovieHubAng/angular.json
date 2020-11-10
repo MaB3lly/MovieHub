@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "MovieHubAng"
+    }
+  },
+  "defaultProject": "MovieHubAng",
+  "cli": {
+    "analytics": false
+  }
 }
